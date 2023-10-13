@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f2632f9f-3f36-4af8-bf53-b0ff2066ae87)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "1. Motor Drivers\n2. H7 Mount" (at 29.21 36.83 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 72c7b3af-9537-4d25-be99-cee910ddabdc)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
