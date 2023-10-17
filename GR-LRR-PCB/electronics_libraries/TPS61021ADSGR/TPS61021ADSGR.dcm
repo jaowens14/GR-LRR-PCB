@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61021ADSGR
+D 3-A Boost Converter with 0.5-V Ultra Low Input Voltage 
+K
+F http://www.ti.com/lit/ds/symlink/tps61021a.pdf
+$ENDCMP
+#
+#End Doc Library

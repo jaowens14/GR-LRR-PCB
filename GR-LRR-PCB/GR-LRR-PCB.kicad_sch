@@ -2,15 +2,67 @@
 
   (uuid f2632f9f-3f36-4af8-bf53-b0ff2066ae87)
 
-  (paper "A4")
+  (paper "A")
 
   (lib_symbols
   )
 
 
-  (text "1. Motor Drivers\n2. H7 Mount" (at 29.21 36.83 0)
+  (text "1. Motor Drivers\n2. H7 Mount\n3. 24v to 5v\n4. 5v to 3.3v\n5. UT\n6. Motor Wire mount\n7. Relay mount\n8. clamp sensor\n9. encoder\n10. linear transducer\n11. Hard estop\n12. main battery power in\n13. Battery Monitor"
+    (at 24.13 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 72c7b3af-9537-4d25-be99-cee910ddabdc)
+  )
+
+  (sheet (at 50.8 20.32) (size 31.75 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4284e36e-2dfd-4bf2-8014-4b6c6efb3153)
+    (property "Sheetname" "IO" (at 50.8 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "IO.kicad_sch" (at 50.8 46.3046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GR-LRR-PCB"
+        (path "/f2632f9f-3f36-4af8-bf53-b0ff2066ae87" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 86.36 20.32) (size 31.75 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7dd84e16-331c-4bab-8c3c-bde34b3312d9)
+    (property "Sheetname" "Control" (at 86.36 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Control.kicad_sch" (at 86.36 46.3046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GR-LRR-PCB"
+        (path "/f2632f9f-3f36-4af8-bf53-b0ff2066ae87" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 15.24 20.32) (size 30.48 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid db65c721-ccfc-4bc9-b167-41780dab10e5)
+    (property "Sheetname" "PowerSystem" (at 15.24 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PowerSystem.kicad_sch" (at 15.24 46.3046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GR-LRR-PCB"
+        (path "/f2632f9f-3f36-4af8-bf53-b0ff2066ae87" (page "2"))
+      )
+    )
   )
 
   (sheet_instances
