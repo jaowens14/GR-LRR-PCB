@@ -48,7 +48,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -165,8 +171,40 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.2,
+        0.5,
+        1.0,
+        2.0,
+        2.5
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.4,
+          "drill": 0.2
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
+        },
+        {
+          "diameter": 2.0,
+          "drill": 1.0
+        },
+        {
+          "diameter": 4.0,
+          "drill": 2.0
+        },
+        {
+          "diameter": 5.0,
+          "drill": 2.5
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -426,7 +464,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../Program Files/KiCad/7.0/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
