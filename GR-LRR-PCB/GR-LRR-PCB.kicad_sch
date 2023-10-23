@@ -35,10 +35,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 7dd84e16-331c-4bab-8c3c-bde34b3312d9)
-    (property "Sheetname" "Control" (at 86.36 19.6084 0)
+    (property "Sheetname" "Controller" (at 86.36 19.6084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "Control.kicad_sch" (at 86.36 46.3046 0)
+    (property "Sheetfile" "Controller.kicad_sch" (at 86.36 46.3046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances

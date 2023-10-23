@@ -1,4 +1,11 @@
-21589750814589341
+21616912884373622
+2604-1102
+2604-1102
+
+2604-1102 
+0
+4
+4
 06035A121FAT2A
 CAPC1608X90N
 0603-1
@@ -51400,6 +51407,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DF40HC(3.5)-80DS-0.4V(51)
+DF40HC3580DS04V58
+DF40HC(3.5)-80DS-0.4V(58)-1
+Connector
+0
+80
+80
 DFE201612E-2R2M=P2
 1286ASH1R0MP2
 0806 (2016) T=1.2mm
@@ -54375,6 +54389,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+G5LE-14-DC5
+G5LE-14_SPDT
+G5LE-14
+Relay or Contactor
+0
+5
+5
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -60759,6 +60780,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MC1413DR2G
+SOIC127P600X175-16N
+SOIC-16 CASE751B-05
+Integrated Circuit
+0
+16
+16
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -64455,6 +64483,20 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PRQ100WQ24S24D
+PRQ100WQ24S24D
+PRQ100W-Q24-S24-D-1
+Power Supply
+0
+10
+10
+PYBE20-Q24-S5
+CONV_PYBE20-Q24-S5
+
+
+0
+6
+6
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -82963,6 +83005,27 @@ SSM3J132TU
 0
 3
 3
+SSM3J355R_LF
+SOT-23F_TOS
+
+SSM3J355R_LF 
+0
+3
+3
+SSM3J355R_LF
+SOT-23F_TOS-L
+
+SSM3J355R_LF 
+0
+3
+3
+SSM3J355R_LF
+SOT-23F_TOS-M
+
+SSM3J355R_LF 
+0
+3
+3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -84517,6 +84580,20 @@ Logo WEEE
 0
 0
 0
+TLV75533PDBVR
+SOT95P280X145-5N
+DBV0005A
+Integrated Circuit
+0
+5
+5
+TMC2209
+MODULE_TMC2209_SILENTSTEPSTICK
+
+
+0
+18
+18
 TPS63020DSJR
 TPS63020DSJR
 DSJ (R-PVSON-N14)
@@ -89361,6 +89438,13 @@ igbt diode module
 0
 25
 25
+UWE-245-Q12PB-C
+UWE245Q12PBC
+UWE-24/5-Q12PB-C-2
+Power Supply
+0
+8
+8
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -90138,10 +90222,38 @@ varistor
 0
 2
 2
+XA1E-BV302-R
+XA1E-BV302-R
+
+
+0
+7
+7
 XFL4015-471MEC
 XFL4012
 XFL4012
 Inductor
+0
+2
+2
+XGL4018-472MEC
+IND_XGL4018_COC
+
+XGL4018-472MEC 
+0
+2
+2
+XGL4018-472MEC
+IND_XGL4018_COC-L
+
+XGL4018-472MEC 
+0
+2
+2
+XGL4018-472MEC
+IND_XGL4018_COC-M
+
+XGL4018-472MEC 
 0
 2
 2
