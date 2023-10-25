@@ -2246,10 +2246,10 @@
     (property "Datasheet" "" (at 38.1 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eba98ab2-a374-46b1-a51f-09ec4f65acc8))
-    (pin "2" (uuid 8e4b4f1f-d228-4a3e-89cc-b52a44b9a3b5))
-    (pin "3" (uuid 2463c158-b66c-4779-8144-97924fab140c))
-    (pin "4" (uuid a0ab9de0-df65-4485-821d-3440fcd660b7))
+    (pin "1" (uuid f5b2896f-e761-4516-9ac8-8a8301238eba))
+    (pin "2" (uuid ec86547b-04a1-42ce-84f8-e3b5c394254d))
+    (pin "3" (uuid f8fbb849-eace-4b65-b813-f80aaad10e21))
+    (pin "4" (uuid d932ebd3-4f9d-4454-a50d-952ef8498234))
     (instances
       (project "GR-LRR-PCB"
         (path "/f2632f9f-3f36-4af8-bf53-b0ff2066ae87/db65c721-ccfc-4bc9-b167-41780dab10e5"
@@ -2363,10 +2363,10 @@
   (symbol (lib_id "SSM3J355R_LF:SSM3J355R_LF") (at 90.17 45.72 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd8f4c53-1c3e-48eb-a159-d56fffa13e1b)
-    (property "Reference" "MOSFET1" (at 97.79 27.94 90)
+    (property "Reference" "Q1" (at 97.79 26.67 90)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "SSM3J355R_LF" (at 97.79 30.48 90)
+    (property "Value" "SSM3J355R_LF" (at 97.79 29.21 90)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "SOT-23F_TOS" (at 90.17 45.72 0)
@@ -2381,7 +2381,7 @@
     (instances
       (project "GR-LRR-PCB"
         (path "/f2632f9f-3f36-4af8-bf53-b0ff2066ae87/db65c721-ccfc-4bc9-b167-41780dab10e5"
-          (reference "MOSFET1") (unit 1)
+          (reference "Q1") (unit 1)
         )
       )
     )
