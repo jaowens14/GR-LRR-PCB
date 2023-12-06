@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FX30B-4S-3.81DSA
+#/437627/1098872/2.50/10/4/Connector
+DEF FX30B-4S-3.81DSA J 0 30 Y Y 1 F N
+F0 "J" 850 500 50 H V L CNN
+F1 "FX30B-4S-3.81DSA" 850 400 50 H V L CNN
+F2 "FX30B4S381DSA" 850 300 50 H I L CNN
+F3 "https://www.hirose.com/product/document?clcode=CL0570-3502-7-00&productname=FX30B-4S-3.81DSA&series=FX30&documenttype=2DDrawing&lang=en&documentid=0000953607" 850 200 50 H I L CNN
+F4 "Hirose FX30B Series 3.81mm 4 Way 1 Row Straight PCB Socket Through Hole Board to Board" 850 100 50 H I L CNN "Description"
+F5 "16.6" 850 0 50 H I L CNN "Height"
+F6 "798-FX30B-4S-3.81DSA" 850 -100 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4S-3.81DSA?qs=AAveGqk956F%2F0Oq85THZNQ%3D%3D" 850 -200 50 H I L CNN "Mouser Price/Stock"
+F8 "Hirose" 850 -300 50 H I L CNN "Manufacturer_Name"
+F9 "FX30B-4S-3.81DSA" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A1 A1 300 500 200 D 50 50 0 0 P
+X A2 A2 400 500 200 D 50 50 0 0 P
+X A3 A3 500 500 200 D 50 50 0 0 P
+X A4 A4 600 500 200 D 50 50 0 0 P
+X B1 B1 300 -500 200 U 50 50 0 0 P
+X B2 B2 400 -500 200 U 50 50 0 0 P
+X B3 B3 500 -500 200 U 50 50 0 0 P
+X B4 B4 600 -500 200 U 50 50 0 0 P
+X MH1 MH1 0 0 200 R 50 50 0 0 P
+X MH2 MH2 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 300 800 300 800 -300 200 -300 200 300 N
+ENDDRAW
+ENDDEF
+#
+#End Library

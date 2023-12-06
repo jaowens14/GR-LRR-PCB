@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZLLS400TA
+D Diodes Inc ZLLS400TA, SMT Schottky Diode, 40V 520mA, 3ns, 2-Pin SOD-323
+K
+F https://www.diodes.com/assets/Datasheets/ZLLS400.pdf
+$ENDCMP
+#
+#End Doc Library

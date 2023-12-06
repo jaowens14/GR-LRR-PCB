@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63806YFFR
+D 2.5-A, high efficiency buck-boost converter with optimized load-step response
+K
+F https://www.ti.com/lit/gpn/TPS63806
+$ENDCMP
+#
+#End Doc Library
