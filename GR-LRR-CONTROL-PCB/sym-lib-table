@@ -6,4 +6,5 @@
   (lib (name "S4B-XH-SM4-TB")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/S4B-XH-SM4-TB/S4B-XH-SM4-TB.kicad_sym")(options "")(descr ""))
   (lib (name "BSS806NH6327XTSA1")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/BSS806NH6327XTSA1/BSS806NH6327XTSA1.kicad_sym")(options "")(descr ""))
   (lib (name "XB3-24AST-J")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/XB3-24AST-J/XB3-24AST-J.kicad_sym")(options "")(descr ""))
+  (lib (name "QTLP650C2TR")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/QTLP650C2TR/QTLP650C2TR.kicad_sym")(options "")(descr ""))
 )

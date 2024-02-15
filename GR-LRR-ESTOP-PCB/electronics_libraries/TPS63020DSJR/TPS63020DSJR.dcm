@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63020DSJR
+D Conv DC-DC 1.8V to 5.5V Synchronous Step Down/Synchronous Step Up Single-Out 1.2V to 5.5V 3A 14-Pin VSON EP T/R
+K
+F https://www.ti.com/lit/ds/symlink/tps63020.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1623612296427
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB\GR-LRR-POWER-PCB.kicad_sch</source>
+    <date>12/11/2023 11:57:41 AM</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>GR-LRR-POWER-PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery</value>
+      <libsource lib="Device" part="Battery" description="Multiple-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Multiple-cell battery"/>
+      <property name="ki_keywords" value="batt voltage-source cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6816d106-b384-44a8-85c5-1564df643c4a</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>Battery</value>
+      <libsource lib="Device" part="Battery" description="Multiple-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Multiple-cell battery"/>
+      <property name="ki_keywords" value="batt voltage-source cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d367d628-1f31-4faf-b83b-433285a4d48f</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100PX220MEFC12.5X20</value>
+      <footprint>100PX220MEFC12.5X20:CAP_PK&amp;slash_PZ_12P5X20_LOW_RUB</footprint>
+      <datasheet>100PX220MEFC12.5X20</datasheet>
+      <fields>
+        <field name="Part Number">100PX220MEFC12.5X20</field>
+      </fields>
+      <libsource lib="100PX220MEFC12.5X20" part="100PX220MEFC12.5X20" description=""/>
+      <property name="Part Number" value="100PX220MEFC12.5X20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="100PX220MEFC12.5X20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15796aa2-760e-4f14-bdf5-962bfa62dd8e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100PX220MEFC12.5X20</value>
+      <footprint>100PX220MEFC12.5X20:CAP_PK&amp;slash_PZ_12P5X20_LOW_RUB</footprint>
+      <datasheet>100PX220MEFC12.5X20</datasheet>
+      <fields>
+        <field name="Part Number">100PX220MEFC12.5X20</field>
+      </fields>
+      <libsource lib="100PX220MEFC12.5X20" part="100PX220MEFC12.5X20" description=""/>
+      <property name="Part Number" value="100PX220MEFC12.5X20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="100PX220MEFC12.5X20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>547ecad4-eede-4ee8-9aff-cefb82f2e1b0</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100PX220MEFC12.5X20</value>
+      <footprint>100PX220MEFC12.5X20:CAP_PK&amp;slash_PZ_12P5X20_LOW_RUB</footprint>
+      <datasheet>100PX220MEFC12.5X20</datasheet>
+      <fields>
+        <field name="Part Number">100PX220MEFC12.5X20</field>
+      </fields>
+      <libsource lib="100PX220MEFC12.5X20" part="100PX220MEFC12.5X20" description=""/>
+      <property name="Part Number" value="100PX220MEFC12.5X20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="100PX220MEFC12.5X20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3f39b78-18f8-4c39-bce2-7f324d4da0f3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>330uF, 50V</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2452/ECA-xxM%20Series,TypeA.pdf</datasheet>
+      <fields>
+        <field name="Part Number">ECA-1HM331B</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Part Number" value="ECA-1HM331B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>257ba090-6ac1-4c8f-b6a7-7292bb25a635</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF, 50v</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL21B105KBFNNNG_Spec.pdf</datasheet>
+      <fields>
+        <field name="Part Number">CL21B105KBFNNNG</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="CL21B105KBFNNNG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad0d3190-57ea-4366-a4e3-f71eb9bb4194</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.samsungsem.com/kr/support/product-search/mlcc/CL21B105KPFNNNE.jsp</datasheet>
+      <fields>
+        <field name="Part Number">CL21B105KPFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="CL21B105KPFNNNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cb9e93c-cca8-4f76-bdb0-dd1caeb4cb15</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>330uF, 50V</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2452/ECA-xxM%20Series,TypeA.pdf</datasheet>
+      <fields>
+        <field name="Part Number">ECA-1HM331B</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Part Number" value="ECA-1HM331B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a242efe-4174-4041-bc73-93b828e9bfa6</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.samsungsem.com/kr/support/product-search/mlcc/CL21B105KPFNNNE.jsp</datasheet>
+      <fields>
+        <field name="Part Number">CL21B105KPFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="CL21B105KPFNNNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>045f82b5-d2c5-4417-974b-1f74b9cc7336</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>470uF, 10V</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder</footprint>
+      <datasheet>https://www.vishay.com/docs/40002/293d.pdf</datasheet>
+      <fields>
+        <field name="Part Number">293D477X9010E2TE3</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Part Number" value="293D477X9010E2TE3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6038befc-cae5-478d-adda-3799c3192890</tstamps>
+    </comp>
+    <comp ref="Conn1">
+      <value>~</value>
+      <libsource lib="MakitaBatteryAdapter" part="MakitaBatteryAdapter" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5334c795-5507-4742-b7b2-8e777582b8c3</tstamps>
+    </comp>
+    <comp ref="Conn2">
+      <value>~</value>
+      <libsource lib="MakitaBatteryAdapter" part="MakitaBatteryAdapter" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36a67a1a-c5ad-4612-9b70-e2b649ef0ea6</tstamps>
+    </comp>
+    <comp ref="CY1">
+      <value>1nF, 2kV</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder</footprint>
+      <datasheet>https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C1812C102KGRACAUTO</datasheet>
+      <fields>
+        <field name="Part Number">C1812C102KGRACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="C1812C102KGRACAUTO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7246e7e2-c588-414b-b965-127076eda867</tstamps>
+    </comp>
+    <comp ref="CY2">
+      <value>1nF, 2kV</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder</footprint>
+      <datasheet>https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C1812C102KGRACAUTO</datasheet>
+      <fields>
+        <field name="Part Number">C1812C102KGRACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part Number" value="C1812C102KGRACAUTO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baf034ef-01c2-482c-9152-3c636882fa71</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SMCJ40A</value>
+      <footprint>SMCJ40A:DIOM7959X262N</footprint>
+      <fields>
+        <field name="MANUFACTURER">LittelFuse</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.62mm</field>
+        <field name="PARTREV">11/20/15</field>
+        <field name="Part Number">SMCJ40A</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="SMCJ40A" part="SMCJ40A" description=""/>
+      <property name="PARTREV" value="11/20/15"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.62mm"/>
+      <property name="MANUFACTURER" value="LittelFuse"/>
+      <property name="Part Number" value="SMCJ40A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0ca4ad5-fdec-45d6-961e-4293ade396ba</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TLV75533PDBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/tlv755p</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Mouser Part Number">595-TLV75533PDBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV75533PDBVR?qs=55YtniHzbhAKEwqeO2xJXQ%3D%3D</field>
+        <field name="Part Number">TLV75533PDBVR</field>
+      </fields>
+      <libsource lib="TLV75533PDBVR" part="TLV75533PDBVR" description="LDO Voltage Regulators 500-mA, Low IQ, Small Size, Low Dropout Regulator 5-SOT-23 -40 to 125"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="595-TLV75533PDBVR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV75533PDBVR?qs=55YtniHzbhAKEwqeO2xJXQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Part Number" value="TLV75533PDBVR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="LDO Voltage Regulators 500-mA, Low IQ, Small Size, Low Dropout Regulator 5-SOT-23 -40 to 125"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7316bece-755b-4988-a987-b0128a51eee6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>BATT1</value>
+      <footprint>2604-1102:2604-1102</footprint>
+      <datasheet>2604-1102</datasheet>
+      <fields>
+        <field name="Part Number">2604-1102</field>
+      </fields>
+      <libsource lib="2604-1102" part="2604-1102" description=""/>
+      <property name="Part Number" value="2604-1102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="2604-1102"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20d62b31-9e80-4ce9-9327-3e10b156ecd0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>BATT2</value>
+      <footprint>2604-1102:2604-1102</footprint>
+      <datasheet>2604-1102</datasheet>
+      <fields>
+        <field name="Part Number">2604-1102</field>
+      </fields>
+      <libsource lib="2604-1102" part="2604-1102" description=""/>
+      <property name="Part Number" value="2604-1102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="2604-1102"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>064a5c7f-3318-4264-89af-8048bb7d89ad</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>POW_SW</value>
+      <footprint>2604-1102:2604-1102</footprint>
+      <datasheet>2604-1102</datasheet>
+      <fields>
+        <field name="Part Number">2604-1102</field>
+      </fields>
+      <libsource lib="2604-1102" part="2604-1102" description=""/>
+      <property name="Part Number" value="2604-1102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="2604-1102"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>667fe715-57d0-45b1-9d4d-254c5a0f19b1</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>FX30B-4P-3.81DSA25</value>
+      <footprint>FX30B-4P-3.81DSA25:FX30B4P381DSA25</footprint>
+      <datasheet>https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FX30B-4P-3.81DSA25</datasheet>
+      <fields>
+        <field name="Height">18.3</field>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Mouser Part Number">798-FX30B-4P381DSA25</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4P-3.81DSA25?qs=AAveGqk956E5uZL61kELgg%3D%3D</field>
+        <field name="Part Number">FX30B-4P-3.81DSA25</field>
+      </fields>
+      <libsource lib="FX30B-4P-3_81DSA25" part="FX30B-4P-3.81DSA25" description="Board to Board &amp; Mezzanine Connectors 4P B2B PWR CON STRT HDR 25MM H T/H"/>
+      <property name="Height" value="18.3"/>
+      <property name="Mouser Part Number" value="798-FX30B-4P381DSA25"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4P-3.81DSA25?qs=AAveGqk956E5uZL61kELgg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Hirose"/>
+      <property name="Part Number" value="FX30B-4P-3.81DSA25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Board to Board &amp; Mezzanine Connectors 4P B2B PWR CON STRT HDR 25MM H T/H"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43bffff3-4537-4900-b38b-bd3e9ffe7bd8</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>FX30B-4P-3.81DSA25</value>
+      <footprint>FX30B-4P-3.81DSA25:FX30B4P381DSA25</footprint>
+      <datasheet>https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FX30B-4P-3.81DSA25</datasheet>
+      <fields>
+        <field name="Height">18.3</field>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Mouser Part Number">798-FX30B-4P381DSA25</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4P-3.81DSA25?qs=AAveGqk956E5uZL61kELgg%3D%3D</field>
+        <field name="Part Number">FX30B-4P-3.81DSA25</field>
+      </fields>
+      <libsource lib="FX30B-4P-3_81DSA25" part="FX30B-4P-3.81DSA25" description="Board to Board &amp; Mezzanine Connectors 4P B2B PWR CON STRT HDR 25MM H T/H"/>
+      <property name="Height" value="18.3"/>
+      <property name="Mouser Part Number" value="798-FX30B-4P381DSA25"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4P-3.81DSA25?qs=AAveGqk956E5uZL61kELgg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Hirose"/>
+      <property name="Part Number" value="FX30B-4P-3.81DSA25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Board to Board &amp; Mezzanine Connectors 4P B2B PWR CON STRT HDR 25MM H T/H"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffd33e7d-5890-4a8d-84bb-8151b776ef33</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>047700</value>
+      <footprint>047700:047700</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/04770x.pdf</datasheet>
+      <fields>
+        <field name="Height">40</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Mouser Part Number">652-47700</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/047700?qs=1Kr7Jg1SGW%2F%252BZhXBevsrBQ%3D%3D</field>
+        <field name="Part Number">047700</field>
+      </fields>
+      <libsource lib="047700" part="047700" description="mH +/- 30 % 2 x 1.5, 14A,  0.0073, kVeff 2.5."/>
+      <property name="Height" value="40"/>
+      <property name="Mouser Part Number" value="652-47700"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/047700?qs=1Kr7Jg1SGW%2F%252BZhXBevsrBQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Part Number" value="047700"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="mH +/- 30 % 2 x 1.5, 14A,  0.0073, kVeff 2.5."/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a919e823-39d5-4743-b92a-b1099a399542</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>4.7uH, 3.1A (4.7UH, 3.3)</value>
+      <footprint>XGL4018-472MEC:IND_XGL4018_COC-M</footprint>
+      <datasheet>https://www.coilcraft.com/getmedia/0be7c387-0089-4e30-b8da-b9d6b0e662a5/xgl4018.pdf</datasheet>
+      <fields>
+        <field name="Part Number">XGL4018-472MEC</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Part Number" value="XGL4018-472MEC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d797c4ad-5ebc-4557-855f-832440d67875</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>QSB30024S24</value>
+      <footprint>QSB30024S24:QSB30024S24</footprint>
+      <datasheet>https://www.xppower.com/portals/0/pdfs/SF_QSB300.pdf</datasheet>
+      <fields>
+        <field name="Height">13.2</field>
+        <field name="Manufacturer_Name">XP POWER</field>
+        <field name="Mouser Part Number">209-QSB30024S24</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/XP-Power/QSB30024S24?qs=w%2Fv1CP2dgqqmYd6D%252BTeJBQ%3D%3D</field>
+        <field name="Part Number">QSB30024S24</field>
+      </fields>
+      <libsource lib="QSB30024S24" part="QSB30024S24" description="Isolated DC/DC Converters DC-DC CONVERTER 300W"/>
+      <property name="Height" value="13.2"/>
+      <property name="Mouser Part Number" value="209-QSB30024S24"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/XP-Power/QSB30024S24?qs=w%2Fv1CP2dgqqmYd6D%252BTeJBQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="XP POWER"/>
+      <property name="Part Number" value="QSB30024S24"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <property name="ki_description" value="Isolated DC/DC Converters DC-DC CONVERTER 300W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>714dcfa6-16fe-44cb-ac10-2ce392908209</tstamps>
+    </comp>
+    <comp ref="PS2">
+      <value>PYBE20-Q24-S5</value>
+      <footprint>PYBE20-Q24-S5:CONV_PYBE20-Q24-S5</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/670/pybe20-1525738.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">CUI Inc</field>
+        <field name="Part Number">PYBE20-Q24-S5</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="PYBE20-Q24-S5" part="PYBE20-Q24-S5" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="CUI Inc"/>
+      <property name="Part Number" value="PYBE20-Q24-S5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GR-LRR-POWER-PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8581ec13-9e4b-470e-9803-12a6699f34b2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="047700" part="047700">
+      <description>mH +/- 30 % 2 x 1.5, 14A,  0.0073, kVeff 2.5.</description>
+      <docs>https://www.bourns.com/docs/Product-Datasheets/04770x.pdf</docs>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">047700</field>
+        <field name="Footprint">047700</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/04770x.pdf</field>
+        <field name="Height">40</field>
+        <field name="Mouser Part Number">652-47700</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/047700?qs=1Kr7Jg1SGW%2F%252BZhXBevsrBQ%3D%3D</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">047700</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="100PX220MEFC12.5X20" part="100PX220MEFC12.5X20">
+      <docs>100PX220MEFC12.5X20</docs>
+      <footprints>
+        <fp>CAP_PK/PZ_12P5X20_LOW_RUB</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">100PX220MEFC12.5X20</field>
+        <field name="Footprint">CAP_PK/PZ_12P5X20_LOW_RUB</field>
+        <field name="Datasheet">100PX220MEFC12.5X20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="2604-1102" part="2604-1102">
+      <docs>2604-1102</docs>
+      <footprints>
+        <fp>CONN_2604-1102_WAG</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">2604-1102</field>
+        <field name="Footprint">CONN_2604-1102_WAG</field>
+        <field name="Datasheet">2604-1102</field>
+      </fields>
+      <pins>
+        <pin num="1_1" name="1_1" type="unspecified"/>
+        <pin num="1_2" name="1_2" type="unspecified"/>
+        <pin num="2_1" name="2_1" type="unspecified"/>
+        <pin num="2_2" name="2_2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery">
+      <description>Multiple-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FX30B-4P-3_81DSA25" part="FX30B-4P-3.81DSA25">
+      <description>Board to Board &amp; Mezzanine Connectors 4P B2B PWR CON STRT HDR 25MM H T/H</description>
+      <docs>https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FX30B-4P-3.81DSA25</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">FX30B-4P-3.81DSA25</field>
+        <field name="Footprint">FX30B4P381DSA25</field>
+        <field name="Datasheet">https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FX30B-4P-3.81DSA25</field>
+        <field name="Height">18.3</field>
+        <field name="Mouser Part Number">798-FX30B-4P381DSA25</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4P-3.81DSA25?qs=AAveGqk956E5uZL61kELgg%3D%3D</field>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Manufacturer_Part_Number">FX30B-4P-3.81DSA25</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="A2" name="A2" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B2" name="B2" type="passive"/>
+        <pin num="C1" name="C1" type="passive"/>
+        <pin num="C2" name="C2" type="passive"/>
+        <pin num="D1" name="D1" type="passive"/>
+        <pin num="D2" name="D2" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MakitaBatteryAdapter" part="MakitaBatteryAdapter">
+      <fields>
+        <field name="Reference">Conn</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VOUT" type="output"/>
+        <pin num="4" name="GND" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="PYBE20-Q24-S5" part="PYBE20-Q24-S5">
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">PYBE20-Q24-S5</field>
+        <field name="Footprint">CONV_PYBE20-Q24-S5</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">CUI Inc</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VIN" type="input"/>
+        <pin num="3" name="+VO" type="output"/>
+        <pin num="4" name="TRIM" type="input"/>
+        <pin num="5" name="0V" type="power_in"/>
+        <pin num="6" name="CTRL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="QSB30024S24" part="QSB30024S24">
+      <description>Isolated DC/DC Converters DC-DC CONVERTER 300W</description>
+      <docs>https://www.xppower.com/portals/0/pdfs/SF_QSB300.pdf</docs>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">QSB30024S24</field>
+        <field name="Footprint">QSB30024S24</field>
+        <field name="Datasheet">https://www.xppower.com/portals/0/pdfs/SF_QSB300.pdf</field>
+        <field name="Height">13.2</field>
+        <field name="Mouser Part Number">209-QSB30024S24</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/XP-Power/QSB30024S24?qs=w%2Fv1CP2dgqqmYd6D%252BTeJBQ%3D%3D</field>
+        <field name="Manufacturer_Name">XP POWER</field>
+        <field name="Manufacturer_Part_Number">QSB30024S24</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+VIN" type="passive"/>
+        <pin num="2" name="REMOTE_ON/OFF" type="passive"/>
+        <pin num="3" name="CASE" type="passive"/>
+        <pin num="4" name="-VIN" type="passive"/>
+        <pin num="5" name="-VOUT" type="passive"/>
+        <pin num="6" name="-SENSE" type="passive"/>
+        <pin num="7" name="TRIM" type="passive"/>
+        <pin num="8" name="+SENSE" type="passive"/>
+        <pin num="9" name="+VOUT" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+        <pin num="MH3" name="MH3" type="passive"/>
+        <pin num="MH4" name="MH4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMCJ40A" part="SMCJ40A">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMCJ40A</field>
+        <field name="Footprint">SMCJ40A:DIOM7959X262N</field>
+        <field name="PARTREV">11/20/15</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.62mm</field>
+        <field name="MANUFACTURER">LittelFuse</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TLV75533PDBVR" part="TLV75533PDBVR">
+      <description>LDO Voltage Regulators 500-mA, Low IQ, Small Size, Low Dropout Regulator 5-SOT-23 -40 to 125</description>
+      <docs>http://www.ti.com/lit/gpn/tlv755p</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TLV75533PDBVR</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/tlv755p</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">595-TLV75533PDBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV75533PDBVR?qs=55YtniHzbhAKEwqeO2xJXQ%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TLV75533PDBVR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="047700">
+      <uri>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB/electronics_libraries/047700/047700.kicad_sym</uri>
+    </library>
+    <library logical="100PX220MEFC12.5X20">
+      <uri>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB/electronics_libraries/100PX220MEFC12.5X20/100PX220MEFC12.5X20.kicad_sym</uri>
+    </library>
+    <library logical="2604-1102">
+      <uri>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB/electronics_libraries/2604-1102/2604-1102.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="FX30B-4P-3_81DSA25">
+      <uri>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB/electronics_libraries/FX30B-4P-3.81DSA25/FX30B-4P-3_81DSA25.kicad_sym</uri>
+    </library>
+    <library logical="QSB30024S24">
+      <uri>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB/QSB30024S24.kicad_sym</uri>
+    </library>
+    <library logical="SMCJ40A">
+      <uri>C:\Users\jaowe\Documents\Projects\GR-LRR-PCB\GR-LRR-POWER-PCB/electronics_libraries/SMCJ40A/SMCJ40A.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="OUT" pintype="passive"/>
+      <node ref="J4" pin="B1" pinfunction="B1" pintype="passive"/>
+      <node ref="J4" pin="B2" pinfunction="B2" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="CY1" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="IN" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="J4" pin="A1" pinfunction="A1" pintype="passive"/>
+      <node ref="J4" pin="A2" pinfunction="A2" pintype="passive"/>
+      <node ref="PS2" pin="3" pinfunction="+VO" pintype="output"/>
+    </net>
+    <net code="3" name="+24V">
+      <node ref="C3" pin="1" pintype="unspecified"/>
+      <node ref="J5" pin="A1" pinfunction="A1" pintype="passive"/>
+      <node ref="J5" pin="A2" pinfunction="A2" pintype="passive"/>
+      <node ref="J5" pin="B1" pinfunction="B1" pintype="passive"/>
+      <node ref="J5" pin="B2" pinfunction="B2" pintype="passive"/>
+      <node ref="PS1" pin="9" pinfunction="+VOUT" pintype="passive"/>
+    </net>
+    <net code="4" name="BATT+">
+      <node ref="C1" pin="1" pintype="unspecified"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="C" pintype="passive"/>
+      <node ref="J3" pin="2_1" pinfunction="2_1" pintype="unspecified"/>
+      <node ref="J3" pin="2_2" pinfunction="2_2" pintype="unspecified"/>
+      <node ref="J5" pin="C1" pinfunction="C1" pintype="passive"/>
+      <node ref="J5" pin="C2" pinfunction="C2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="BATT-">
+      <node ref="C1" pin="2" pintype="unspecified"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="CY2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="A" pintype="passive"/>
+      <node ref="J2" pin="1_1" pinfunction="1_1" pintype="unspecified"/>
+      <node ref="J2" pin="1_2" pinfunction="1_2" pintype="unspecified"/>
+      <node ref="J2" pin="2_1" pinfunction="2_1" pintype="unspecified"/>
+      <node ref="J2" pin="2_2" pinfunction="2_2" pintype="unspecified"/>
+      <node ref="J5" pin="D1" pinfunction="D1" pintype="passive"/>
+      <node ref="J5" pin="D2" pinfunction="D2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PS2" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C3" pin="2" pintype="unspecified"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CY2" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J4" pin="C1" pinfunction="C1" pintype="passive"/>
+      <node ref="J4" pin="C2" pinfunction="C2" pintype="passive"/>
+      <node ref="J4" pin="D1" pinfunction="D1" pintype="passive"/>
+      <node ref="J4" pin="D2" pinfunction="D2" pintype="passive"/>
+      <node ref="PS1" pin="5" pinfunction="-VOUT" pintype="passive"/>
+      <node ref="PS2" pin="5" pinfunction="0V" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(BT1-+)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Conn1" pin="1" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(BT1--)">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Conn1" pin="2" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(BT2-+)">
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Conn2" pin="1" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(BT2--)">
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Conn2" pin="2" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(J1-Pad1_1)">
+      <node ref="J1" pin="1_1" pinfunction="1_1" pintype="unspecified"/>
+      <node ref="J1" pin="1_2" pinfunction="1_2" pintype="unspecified"/>
+      <node ref="J1" pin="2_1" pinfunction="2_1" pintype="unspecified"/>
+      <node ref="J1" pin="2_2" pinfunction="2_2" pintype="unspecified"/>
+      <node ref="J3" pin="1_1" pinfunction="1_1" pintype="unspecified"/>
+      <node ref="J3" pin="1_2" pinfunction="1_2" pintype="unspecified"/>
+    </net>
+    <net code="12" name="Net-(PS1-+VIN)">
+      <node ref="C2" pin="1" pintype="unspecified"/>
+      <node ref="L1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="+VIN" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(PS1--VIN)">
+      <node ref="C2" pin="2" pintype="unspecified"/>
+      <node ref="L1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="PS1" pin="4" pinfunction="-VIN" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(PS2-VIN)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="CY1" pin="2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PS2" pin="2" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="15" name="unconnected-(Conn1-GND-Pad4)">
+      <node ref="Conn1" pin="4" pinfunction="GND" pintype="output"/>
+    </net>
+    <net code="16" name="unconnected-(Conn1-VOUT-Pad3)">
+      <node ref="Conn1" pin="3" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="17" name="unconnected-(Conn2-GND-Pad4)">
+      <node ref="Conn2" pin="4" pinfunction="GND" pintype="output"/>
+    </net>
+    <net code="18" name="unconnected-(Conn2-VOUT-Pad3)">
+      <node ref="Conn2" pin="3" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="19" name="unconnected-(IC1-NC-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(J4-PadMH1)">
+      <node ref="J4" pin="MH1" pinfunction="MH1" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(J4-PadMH2)">
+      <node ref="J4" pin="MH2" pinfunction="MH2" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(J5-PadMH1)">
+      <node ref="J5" pin="MH1" pinfunction="MH1" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(J5-PadMH2)">
+      <node ref="J5" pin="MH2" pinfunction="MH2" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(PS1-+SENSE-Pad8)">
+      <node ref="PS1" pin="8" pinfunction="+SENSE" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(PS1--SENSE-Pad6)">
+      <node ref="PS1" pin="6" pinfunction="-SENSE" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(PS1-CASE-Pad3)">
+      <node ref="PS1" pin="3" pinfunction="CASE" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(PS1-PadMH1)">
+      <node ref="PS1" pin="MH1" pinfunction="MH1" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(PS1-PadMH2)">
+      <node ref="PS1" pin="MH2" pinfunction="MH2" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(PS1-PadMH3)">
+      <node ref="PS1" pin="MH3" pinfunction="MH3" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(PS1-PadMH4)">
+      <node ref="PS1" pin="MH4" pinfunction="MH4" pintype="passive"/>
+    </net>
+    <net code="31" name="unconnected-(PS1-REMOTE_ON{slash}OFF-Pad2)">
+      <node ref="PS1" pin="2" pinfunction="REMOTE_ON/OFF" pintype="passive"/>
+    </net>
+    <net code="32" name="unconnected-(PS1-TRIM-Pad7)">
+      <node ref="PS1" pin="7" pinfunction="TRIM" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(PS2-CTRL-Pad6)">
+      <node ref="PS2" pin="6" pinfunction="CTRL" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(PS2-TRIM-Pad4)">
+      <node ref="PS2" pin="4" pinfunction="TRIM" pintype="input"/>
+    </net>
+  </nets>
+</export>

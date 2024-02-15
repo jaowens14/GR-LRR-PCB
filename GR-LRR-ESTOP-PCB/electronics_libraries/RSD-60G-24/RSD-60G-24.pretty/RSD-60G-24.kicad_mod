@@ -1,0 +1,56 @@
+(footprint "RSD-60G-24" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e2145fdd-610e-4cca-8d0f-727a470555b4)
+  )
+  (fp_text value "RSD-60G-24" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c14c3d4f-416e-4550-a009-6fb157dc50ee)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d23eb8ef-0a44-4aa0-a025-69def4547dd9)
+  )
+  (fp_line (start -63.5 -30.48) (end -63.5 25.52)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp ff396d3c-e9e7-40c4-af85-0ec5247c4289))
+  (fp_line (start -61.5 27.52) (end 62.5 27.52)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 7b001fac-f76e-4a6d-b42d-6cf514723cac))
+  (fp_line (start 62.5 -32.48) (end -61.5 -32.48)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 594aa8f6-dbd8-4569-8ce6-0c9328c3a0aa))
+  (fp_line (start 64.5 25.52) (end 64.5 -30.48)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp dd1342c2-658a-43e6-bc46-1a4c3a8ec00f))
+  (fp_arc (start -63.5 -30.48) (mid -62.914214 -31.894214) (end -61.5 -32.48)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 836b7ef0-f827-4bf9-8e55-d67ce0ba0e94))
+  (fp_arc (start -61.5 27.52) (mid -62.914214 26.934214) (end -63.5 25.52)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 6d61678e-8821-4837-821f-065130ace874))
+  (fp_arc (start 62.5 -32.48) (mid 63.914214 -31.894214) (end 64.5 -30.48)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 20440b2c-1141-4324-b91e-b60861f24c46))
+  (fp_arc (start 64.5 25.52) (mid 63.914214 26.934214) (end 62.5 27.52)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 6ea82353-3c43-41bc-aa68-1840bf4c4ce5))
+  (fp_circle (center -59.5 -28.48) (end -57.75 -28.48)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 1eecb074-b8de-4b3d-835b-04dec3ad46b6))
+  (fp_circle (center -59.5 23.519998) (end -57.75 23.519998)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 1858853c-9ca2-4dcd-96b8-9fde4aedd960))
+  (fp_circle (center 60.5 -28.48) (end 62.25 -28.48)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 88c4062d-79dc-4c1c-b506-e814050efa9c))
+  (fp_circle (center 60.5 23.519998) (end 62.25 23.519998)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp c93776b5-57cf-4ad2-b305-3cbb6bb3193c))
+  (group "" (id f0f2154a-e14e-4500-a868-e6e102fa361b)
+    (members
+      1858853c-9ca2-4dcd-96b8-9fde4aedd960
+      1eecb074-b8de-4b3d-835b-04dec3ad46b6
+      20440b2c-1141-4324-b91e-b60861f24c46
+      594aa8f6-dbd8-4569-8ce6-0c9328c3a0aa
+      6d61678e-8821-4837-821f-065130ace874
+      6ea82353-3c43-41bc-aa68-1840bf4c4ce5
+      7b001fac-f76e-4a6d-b42d-6cf514723cac
+      836b7ef0-f827-4bf9-8e55-d67ce0ba0e94
+      88c4062d-79dc-4c1c-b506-e814050efa9c
+      c93776b5-57cf-4ad2-b305-3cbb6bb3193c
+      dd1342c2-658a-43e6-bc46-1a4c3a8ec00f
+      ff396d3c-e9e7-40c4-af85-0ec5247c4289
+    )
+  )
+)

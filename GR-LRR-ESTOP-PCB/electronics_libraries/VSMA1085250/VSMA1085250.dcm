@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VSMA1085250
+D High Power Infrared Emitting Diode, 850 nm, Surface Emitter Technology
+K
+F https://www.vishay.com/docs/80297/vsma1085250.pdf
+$ENDCMP
+#
+#End Doc Library

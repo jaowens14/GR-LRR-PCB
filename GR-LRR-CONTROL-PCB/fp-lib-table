@@ -8,4 +8,5 @@
   (lib (name "MC1413DR2G")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/MC1413DR2G/MC1413DR2G.pretty")(options "")(descr ""))
   (lib (name "BSS806NH6327XTSA1")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/BSS806NH6327XTSA1/BSS806NH6327XTSA1.pretty")(options "")(descr ""))
   (lib (name "XB3-24AST-J")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/XB3-24AST-J/XB3-24AST-J.pretty")(options "")(descr ""))
+  (lib (name "QTLP650C2TR")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/QTLP650C2TR/QTLP650C2TR.pretty")(options "")(descr ""))
 )

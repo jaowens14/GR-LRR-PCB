@@ -1,0 +1,121 @@
+(kicad_pcb (version 20221018) (generator pcbnew)
+
+  (general
+    (thickness 1.6)
+  )
+
+  (paper "A4")
+  (layers
+    (0 "F.Cu" signal)
+    (31 "B.Cu" signal)
+    (32 "B.Adhes" user "B.Adhesive")
+    (33 "F.Adhes" user "F.Adhesive")
+    (34 "B.Paste" user)
+    (35 "F.Paste" user)
+    (36 "B.SilkS" user "B.Silkscreen")
+    (37 "F.SilkS" user "F.Silkscreen")
+    (38 "B.Mask" user)
+    (39 "F.Mask" user)
+    (40 "Dwgs.User" user "User.Drawings")
+    (41 "Cmts.User" user "User.Comments")
+    (42 "Eco1.User" user "User.Eco1")
+    (43 "Eco2.User" user "User.Eco2")
+    (44 "Edge.Cuts" user)
+    (45 "Margin" user)
+    (46 "B.CrtYd" user "B.Courtyard")
+    (47 "F.CrtYd" user "F.Courtyard")
+    (48 "B.Fab" user)
+    (49 "F.Fab" user)
+    (50 "User.1" user)
+    (51 "User.2" user)
+    (52 "User.3" user)
+    (53 "User.4" user)
+    (54 "User.5" user)
+    (55 "User.6" user)
+    (56 "User.7" user)
+    (57 "User.8" user)
+    (58 "User.9" user)
+  )
+
+  (setup
+    (pad_to_mask_clearance 0)
+    (pcbplotparams
+      (layerselection 0x00010fc_ffffffff)
+      (plot_on_all_layers_selection 0x0000000_00000000)
+      (disableapertmacros false)
+      (usegerberextensions false)
+      (usegerberattributes true)
+      (usegerberadvancedattributes true)
+      (creategerberjobfile true)
+      (dashed_line_dash_ratio 12.000000)
+      (dashed_line_gap_ratio 3.000000)
+      (svgprecision 4)
+      (plotframeref false)
+      (viasonmask false)
+      (mode 1)
+      (useauxorigin false)
+      (hpglpennumber 1)
+      (hpglpenspeed 20)
+      (hpglpendiameter 15.000000)
+      (dxfpolygonmode true)
+      (dxfimperialunits true)
+      (dxfusepcbnewfont true)
+      (psnegative false)
+      (psa4output false)
+      (plotreference true)
+      (plotvalue true)
+      (plotinvisibletext false)
+      (sketchpadsonfab false)
+      (subtractmaskfromsilk false)
+      (outputformat 1)
+      (mirror false)
+      (drillshape 1)
+      (scaleselection 1)
+      (outputdirectory "")
+    )
+  )
+
+  (net 0 "")
+
+  (gr_circle (center 75.4916 65.786) (end 76.9916 65.786)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 1072cdf4-d73d-4d29-a83d-911a1e654f60))
+  (gr_line (start 104.4916 62.786) (end 75.4916 62.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 4019a1fc-fc5c-45eb-be4e-4f3154d1b409))
+  (gr_line (start 72.4916 65.786) (end 72.4916 129.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 5b123b4f-91cb-4b4d-b40c-46a90882f40f))
+  (gr_arc (start 104.4916 62.786) (mid 106.61292 63.66468) (end 107.4916 65.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 5f3c88a2-93f6-4aee-8464-6b5e6fc72e64))
+  (gr_circle (center 104.4916 65.786) (end 105.9916 65.786)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 65090a79-08f8-42d5-9cc4-344451c6ff49))
+  (gr_arc (start 75.4916 132.786) (mid 73.37028 131.90732) (end 72.4916 129.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 661de8c2-8bff-4a2b-a9ee-b9e46e602035))
+  (gr_arc (start 107.4916 129.786) (mid 106.61292 131.90732) (end 104.4916 132.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 79667ae2-01f7-4fc4-a164-d508fdbd032c))
+  (gr_circle (center 104.4916 129.786) (end 105.9916 129.786)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 840f63e9-fa84-4631-b994-187e640be57f))
+  (gr_line (start 107.4916 129.786) (end 107.4916 65.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 89c443cf-6b48-4c6a-a944-805a0865391d))
+  (gr_arc (start 72.4916 65.786) (mid 73.37028 63.66468) (end 75.4916 62.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp 8d1c675e-48f2-4765-93dd-ad8a7482f9f0))
+  (gr_circle (center 75.4916 129.786) (end 76.9916 129.786)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 96e7ee4c-cb40-4523-84de-b73a41bd1924))
+  (gr_line (start 75.4916 132.786) (end 104.4916 132.786)
+    (stroke (width 0.25) (type solid)) (layer "Edge.Cuts") (tstamp eb1332e9-513f-43fe-bb82-4fdedea272c5))
+
+  (group "" (id 6ba5f717-36aa-40dd-99a3-aaaa7135c26a)
+    (members
+      1072cdf4-d73d-4d29-a83d-911a1e654f60
+      4019a1fc-fc5c-45eb-be4e-4f3154d1b409
+      5b123b4f-91cb-4b4d-b40c-46a90882f40f
+      5f3c88a2-93f6-4aee-8464-6b5e6fc72e64
+      65090a79-08f8-42d5-9cc4-344451c6ff49
+      661de8c2-8bff-4a2b-a9ee-b9e46e602035
+      79667ae2-01f7-4fc4-a164-d508fdbd032c
+      840f63e9-fa84-4631-b994-187e640be57f
+      89c443cf-6b48-4c6a-a944-805a0865391d
+      8d1c675e-48f2-4765-93dd-ad8a7482f9f0
+      96e7ee4c-cb40-4523-84de-b73a41bd1924
+      eb1332e9-513f-43fe-bb82-4fdedea272c5
+    )
+  )
+)
