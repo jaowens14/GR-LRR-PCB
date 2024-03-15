@@ -3,4 +3,7 @@
   (lib (name "XA1E-BV302-R")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/XA1E-BV302-R/XA1E-BV302-R.pretty")(options "")(descr ""))
   (lib (name "XB3-24AST-J")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/XB3-24AST-J/XB3-24AST-J.pretty")(options "")(descr ""))
   (lib (name "10164359_00011LF")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/10164359_00011LF/10164359_00011LF.pretty")(options "")(descr ""))
+  (lib (name "USB4155_03_C")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/USB4155_03_C/USB4155_03_C.pretty")(options "")(descr ""))
+  (lib (name "QTLP650C2TR")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/QTLP650C2TR/QTLP650C2TR.pretty")(options "")(descr ""))
+  (lib (name "ZLLS400TA")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/ZLLS400TA/ZLLS400TA.pretty")(options "")(descr ""))
 )
