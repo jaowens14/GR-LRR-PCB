@@ -5552,7 +5552,7 @@
     (uuid df46c73a-7777-413f-810a-ea964908dfad)
   )
 
-  (text_box "Changes to implement\n1. Breakout the rest of the pins just in case\n2. Update the board to receive the new drivers\n3. Connect the Battery ground to Overall Ground\n4. Add a Diodes to MCU power lines to keep current from flowing the wrong way \n5. Add a line to connect the MCU to the enable pin to detect when it has been tripped\n6. Shrink the overall foot print so that it fits better in the enclosure\n7. Add socket header stuff for the Zigbee, maybe breakout more zigbee stuff?\n8. Add PWM chip to support all the servos we are about to add\n9. add some current monitoring of the whole system so we can be alerted if something is really wrong"
+  (text_box "Changes to implement\n1. Breakout the rest of the pins just in case\n2. Update the board to receive the new drivers\n3. Connect the Battery ground to Overall Ground\n4. Add a Diodes to MCU power lines to keep current from flowing the wrong way \n5. Add a line to connect the MCU to the enable pin to detect when it has been tripped\n6. Shrink the overall foot print so that it fits better in the enclosure\n7. Add socket header stuff for the Zigbee, maybe breakout more zigbee stuff?\n8. Add PWM chip to support all the servos we are about to add\n9. add some current monitoring of the whole system so we can be alerted if something is really wrong\n10. add some kind of BMS"
     (at 293.37 227.33 0) (size 97.79 34.29)
     (stroke (width 0) (type default))
     (fill (type none))

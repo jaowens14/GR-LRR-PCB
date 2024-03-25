@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SISB46DN-T1-GE3
+D Dual N-Channel 40 V (D-S) MOSFET
+K
+F http://www.vishay.com/docs/76655/sisb46dn.pdf
+$ENDCMP
+#
+#End Doc Library

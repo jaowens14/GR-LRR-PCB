@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSS806NH6327XTSA1
+D MOSFET N-Ch 20V 2.3A SOT-23-3
+K
+F https://www.infineon.com/dgdl/Infineon-BSS806N-DS-v02_03-en.pdf?fileId=db3a304330f686060131185f0553451c
+$ENDCMP
+#
+#End Doc Library

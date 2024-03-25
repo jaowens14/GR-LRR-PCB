@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FX30B-4P-3.81DSA25
+#/264852/1098872/2.50/10/3/Connector
+DEF FX30B-4P-3.81DSA25 J 0 30 Y Y 1 F N
+F0 "J" 850 500 50 H V L CNN
+F1 "FX30B-4P-3.81DSA25" 850 400 50 H V L CNN
+F2 "FX30B4P381DSA25" 850 300 50 H I L CNN
+F3 "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=FX30B-4P-3.81DSA25" 850 200 50 H I L CNN
+F4 "Board to Board & Mezzanine Connectors 4P B2B PWR CON STRT HDR 25MM H T/H" 850 100 50 H I L CNN "Description"
+F5 "18.3" 850 0 50 H I L CNN "Height"
+F6 "798-FX30B-4P381DSA25" 850 -100 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX30B-4P-3.81DSA25?qs=AAveGqk956E5uZL61kELgg%3D%3D" 850 -200 50 H I L CNN "Mouser Price/Stock"
+F8 "Hirose" 850 -300 50 H I L CNN "Manufacturer_Name"
+F9 "FX30B-4P-3.81DSA25" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A1 A1 600 500 200 D 50 50 0 0 P
+X A2 A2 600 -500 200 U 50 50 0 0 P
+X B1 B1 500 500 200 D 50 50 0 0 P
+X B2 B2 500 -500 200 U 50 50 0 0 P
+X C1 C1 400 500 200 D 50 50 0 0 P
+X C2 C2 400 -500 200 U 50 50 0 0 P
+X D1 D1 300 500 200 D 50 50 0 0 P
+X D2 D2 300 -500 200 U 50 50 0 0 P
+X MH1 MH1 1000 0 200 L 50 50 0 0 P
+X MH2 MH2 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 300 800 300 800 -300 200 -300 200 300 N
+ENDDRAW
+ENDDEF
+#
+#End Library
