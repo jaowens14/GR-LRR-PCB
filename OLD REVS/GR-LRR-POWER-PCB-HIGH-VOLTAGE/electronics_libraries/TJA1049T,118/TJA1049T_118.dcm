@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TJA1049T,118
+D CAN Interface IC Hi Spd CAN Transcvr 4.75V-5.25V 220ns
+K
+F http://www.nxp.com/docs/en/data-sheet/TJA1049.pdf
+$ENDCMP
+#
+#End Doc Library

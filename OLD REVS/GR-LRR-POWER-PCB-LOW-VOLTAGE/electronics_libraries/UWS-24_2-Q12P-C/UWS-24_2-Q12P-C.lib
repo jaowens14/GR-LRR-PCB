@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model UWS-24_2-Q12P-C
+#/5045869/1098872/2.50/8/4/Power Supply
+DEF UWS-24_2-Q12P-C PS 0 30 Y Y 1 F N
+F0 "PS" 1850 300 50 H V L CNN
+F1 "UWS-24_2-Q12P-C" 1850 200 50 H V L CNN
+F2 "UWS242Q12PC" 1850 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/UWS-24_2-Q12P-C.pdf" 1850 0 50 H I L CNN
+F4 "Isolated DC/DC Converters 9-36Vin 24Vout 2A Pos Logic 1/16 Brick" 1850 -100 50 H I L CNN "Description"
+F5 "9.1" 1850 -200 50 H I L CNN "Height"
+F6 "580-UWS-24/2-Q12P-C" 1850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/UWS-24-2-Q12P-C?qs=XeJtXLiO41TNkBmqA9gfYQ%3D%3D" 1850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 1850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "UWS-24/2-Q12P-C" 1850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +VIN 1 0 0 200 R 50 50 0 0 P
+X ON/OFF_CONTROL 2 0 -100 200 R 50 50 0 0 P
+X -VIN 3 0 -200 200 R 50 50 0 0 P
+X -VOUT 4 2000 -400 200 L 50 50 0 0 P
+X -SENSE 5 2000 -300 200 L 50 50 0 0 P
+X OUTPUT_TRIM 6 2000 -200 200 L 50 50 0 0 P
+X +SENSE 7 2000 -100 200 L 50 50 0 0 P
+X +VOUT 8 2000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1800 100 1800 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

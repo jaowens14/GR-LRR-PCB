@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QSB30024S24
+D Isolated DC/DC Converters DC-DC CONVERTER 300W
+K
+F https://www.xppower.com/portals/0/pdfs/SF_QSB300.pdf
+$ENDCMP
+#
+#End Doc Library

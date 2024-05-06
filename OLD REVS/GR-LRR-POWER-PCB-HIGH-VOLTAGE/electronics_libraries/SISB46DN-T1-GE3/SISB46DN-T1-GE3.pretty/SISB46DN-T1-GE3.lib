@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SISB46DN-T1-GE3
+#/980024/1098872/2.50/8/4/MOSFET (N-Channel)
+DEF SISB46DN-T1-GE3 Q 0 30 Y Y 1 F N
+F0 "Q" 850 300 50 H V L CNN
+F1 "SISB46DN-T1-GE3" 850 200 50 H V L CNN
+F2 "POWERPAK-1212-8_DUAL" 850 100 50 H I L CNN
+F3 "http://www.vishay.com/docs/76655/sisb46dn.pdf" 850 0 50 H I L CNN
+F4 "Dual N-Channel 40 V (D-S) MOSFET" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "78-SISB46DN-T1-GE3" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SISB46DN-T1-GE3?qs=YQnJFR48xcC%252BccQ4iqTVJg%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SISB46DN-T1-GE3" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X S1 1 0 0 200 R 50 50 0 0 P
+X G1 2 0 -100 200 R 50 50 0 0 P
+X S2 3 0 -200 200 R 50 50 0 0 P
+X G2 4 0 -300 200 R 50 50 0 0 P
+X D2_1 5 1000 0 200 L 50 50 0 0 P
+X D2_2 6 1000 -100 200 L 50 50 0 0 P
+X D1_1 7 1000 -200 200 L 50 50 0 0 P
+X D1_2 8 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 047700
+D mH +/- 30 % 2 x 1.5, 14A,  0.0073, kVeff 2.5.
+K
+F https://www.bourns.com/docs/Product-Datasheets/04770x.pdf
+$ENDCMP
+#
+#End Doc Library

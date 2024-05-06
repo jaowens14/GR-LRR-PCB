@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model UEI15-033-Q12P-C
+#/410358/1098872/2.50/6/4/Power Supply
+DEF UEI15-033-Q12P-C PS 0 30 Y Y 1 F N
+F0 "PS" 1850 300 50 H V L CNN
+F1 "UEI15-033-Q12P-C" 1850 200 50 H V L CNN
+F2 "UEI15033Q12PC" 1850 100 50 H I L CNN
+F3 "https://power.murata.com/data/power/mdc_uei-15w.pdf" 1850 0 50 H I L CNN
+F4 "Murata Power Solutions 14.85W Isolated DC-DC Converter, Vin 9  36 V dc, Vout 3.3V dc, I/O isolation 2000V dc" 1850 -100 50 H I L CNN "Description"
+F5 "9.2" 1850 -200 50 H I L CNN "Height"
+F6 "580-UEI15-033-Q12P-C" 1850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/UEI15-033-Q12P-C?qs=vkg2aSRn9IqPFEOBvVDmVQ%3D%3D" 1850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 1850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "UEI15-033-Q12P-C" 1850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +VIN 1 2000 0 200 L 50 50 0 0 P
+X -VIN 2 2000 -100 200 L 50 50 0 0 P
+X +VOUT 3 0 0 200 R 50 50 0 0 P
+X OUTPUT_TRIM 4 0 -100 200 R 50 50 0 0 P
+X -VOUT 5 0 -200 200 R 50 50 0 0 P
+X ON/OFF_CONTROL 6 2000 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1800 100 1800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

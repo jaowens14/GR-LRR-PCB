@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UEI15-033-Q12P-C
+D Murata Power Solutions 14.85W Isolated DC-DC Converter, Vin 9  36 V dc, Vout 3.3V dc, I/O isolation 2000V dc
+K
+F https://power.murata.com/data/power/mdc_uei-15w.pdf
+$ENDCMP
+#
+#End Doc Library

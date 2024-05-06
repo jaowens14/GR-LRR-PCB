@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "047700")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/047700/047700.kicad_sym")(options "")(descr ""))
+  (lib (name "FX30B-4P-3_81DSA25")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/FX30B-4P-3.81DSA25/FX30B-4P-3_81DSA25.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC4365CTS8_TRMPBF")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/LTC4365CTS8_TRMPBF/LTC4365CTS8_TRMPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "SISB46DN_T1_GE3")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/SISB46DN_T1_GE3/SISB46DN_T1_GE3.kicad_sym")(options "")(descr ""))
+  (lib (name "50ZLH100MEFC8X11_5")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/50ZLH100MEFC8X11_5/50ZLH100MEFC8X11_5.kicad_sym")(options "")(descr ""))
+  (lib (name "SISB46DN-T1-GE3")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/SISB46DN-T1-GE3/SISB46DN-T1-GE3.kicad_sym")(options "")(descr ""))
+  (lib (name "IPB107N20N3_G")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/IPB107N20N3_G/IPB107N20N3_G.kicad_sym")(options "")(descr ""))
+  (lib (name "SIS434DN_T1_GE3")(type "KiCad")(uri "${KIPRJMOD}/electronics_libraries/SIS434DN_T1_GE3/SIS434DN_T1_GE3.kicad_sym")(options "")(descr ""))
+)

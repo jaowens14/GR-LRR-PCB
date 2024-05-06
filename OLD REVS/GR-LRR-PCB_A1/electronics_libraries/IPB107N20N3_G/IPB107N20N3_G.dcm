@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPB107N20N3_G
+D Infineon IPB107N20N3 G N-channel MOSFET Transistor, 88 A, 200 V, 3-Pin TO-263
+K
+F https://www.infineon.com/dgdl/Infineon-IPP_I_110N20N3G_IPB107N20N3G-DS-v02_03-en.pdf?fileId=db3a3043243b5f170124968e7d1f18e7
+$ENDCMP
+#
+#End Doc Library

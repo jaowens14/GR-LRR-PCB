@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QTLP650C2TR
+D Standard LEDs - SMD 1206 SMD LED RED CL
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/QTLP650(C,D)-2,3,4,7,B.pdf
+$ENDCMP
+#
+#End Doc Library
