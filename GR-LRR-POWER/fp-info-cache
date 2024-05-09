@@ -1,4 +1,4 @@
-23506970931693108
+23561848401705733
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95340,6 +95340,13 @@ Varistor VF
 2
 2
 avid_footprints
+691137710002
+
+691137710002 
+0
+2
+2
+avid_footprints
 50ZLH100MEFC8X11_5
 
 50ZLH100MEFC8X11.5 
@@ -95410,6 +95417,13 @@ Connector
 10
 10
 avid_footprints
+87833-1019
+87833-1020
+Connector
+0
+10
+10
+avid_footprints
 212520-1002
 212520-1002
 Connector
@@ -95423,6 +95437,83 @@ Connector
 0
 16
 16
+avid_footprints
+430450200
+
+430450200 
+0
+2
+2
+avid_footprints
+430451000
+
+430451000 
+0
+10
+10
+avid_footprints
+430452400
+
+430452400 
+0
+24
+24
+avid_footprints
+901361303
+
+901361303 
+0
+3
+3
+avid_footprints
+901361304
+
+901361304 
+0
+4
+4
+avid_footprints
+901361305
+
+901361305 
+0
+5
+5
+avid_footprints
+901362102
+
+901362102 
+0
+2
+2
+avid_footprints
+901362103
+
+901362103 
+0
+3
+3
+avid_footprints
+901362104
+
+901362104 
+0
+4
+4
+avid_footprints
+901362105
+
+901362105 
+0
+5
+5
+avid_footprints
+1054051212
+
+1054051212 
+0
+14
+14
 avid_footprints
 74438357082
 74438357082-2
@@ -95469,6 +95560,13 @@ avid_footprints
 BSS806NH6327XTSA1
 
 
+0
+3
+3
+avid_footprints
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
 0
 3
 3
@@ -95564,6 +95662,13 @@ CONV_PYBE20-Q24-S5
 6
 6
 avid_footprints
+CON_430452400_MOL
+
+430452400 
+0
+24
+24
+avid_footprints
 DF40HC3580DS04V58
 DF40HC(3.5)-80DS-0.4V(58)-1
 Connector
@@ -95620,12 +95725,26 @@ Connector
 11
 11
 avid_footprints
+DT1348PABCDR015
+DT13-48PABCD-R015-1
+Connector
+0
+50
+50
+avid_footprints
 DTP134P
 DTP13-4P-3
 Connector
 0
 6
 6
+avid_footprints
+EDAC 690-019-298-412
+
+
+0
+23
+23
 avid_footprints
 FX30B4P381DSA25
 FX30B-4P-3.81DSA25-1
@@ -95654,6 +95773,13 @@ GCT_USB4155-03-C_REVA
 0
 26
 26
+avid_footprints
+Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+24
+23
 avid_footprints
 IHLP1212AEERR33M11
 
@@ -95704,12 +95830,33 @@ LED
 2
 2
 avid_footprints
+L_Bourns_SRN6045TA
+http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
+Semi-shielded Power Inductor
+0
+2
+2
+avid_footprints
 MODULE_ABX00042
 
 
 0
 160
 160
+avid_footprints
+MODULE_ABX00042_2
+
+
+0
+160
+160
+avid_footprints
+MOLEX_USB_67298-4090
+
+
+0
+12
+12
 avid_footprints
 MOSFET_4DN-T1-E3_VIS
 
@@ -95760,6 +95907,13 @@ UWT1H101MNL1GS
 2
 2
 avid_footprints
+PCIex1-36
+
+
+0
+38
+37
+avid_footprints
 PRQ100WQ24S24D
 PRQ100W-Q24-S24-D-1
 Power Supply
@@ -95795,6 +95949,41 @@ Power Supply
 13
 13
 avid_footprints
+RESCAXE64P320X160X70-10N
+
+
+0
+10
+10
+avid_footprints
+RESCAXE80P320X160X70-8N
+
+
+0
+8
+8
+avid_footprints
+RES_YC248_4X1P6_YAG
+
+YC248-JR-0710KL 
+0
+16
+16
+avid_footprints
+RES_YC248_4X1P6_YAG-L
+
+YC248-JR-0710KL 
+0
+16
+16
+avid_footprints
+RES_YC248_4X1P6_YAG-M
+
+YC248-JR-0710KL 
+0
+16
+16
+avid_footprints
 RPI5
 
 
@@ -95809,6 +95998,13 @@ RSD-60G-24
 0
 0
 avid_footprints
+Raspberry-Pi-4-Compute-Module
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+avid_footprints
 SC-14-15JH
 
 
@@ -95816,12 +96012,26 @@ SC-14-15JH
 4
 4
 avid_footprints
+SDCARD_MOLEX_503398-1892
+
+
+0
+14
+11
+avid_footprints
 SISB46DN-T1-GE3
 PowerPAK-1212-8 Dual
 MOSFET (N-Channel)
 0
 10
 10
+avid_footprints
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias
+SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+23
+9
 avid_footprints
 SOIC127P600X175-16N
 SOIC-16 CASE751B-05
@@ -95935,6 +96145,13 @@ Integrated Circuit
 23
 23
 avid_footprints
+TRJG0926HENL
+https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf
+RJ45 Magjack
+0
+20
+20
+avid_footprints
 TSOT-23_TS8_LIT
 
 LTC4365CTS8-TRMPBF 
@@ -95982,6 +96199,13 @@ UEI15-033-Q12P-C-1
 Power Supply
 0
 6
+6
+avid_footprints
+USB_Micro-B_EDAC_UCON00686
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
 6
 avid_footprints
 UWE245Q12PBC

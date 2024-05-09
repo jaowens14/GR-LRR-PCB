@@ -1,4 +1,4 @@
-23560119841396017
+23561848401705733
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95838,6 +95838,13 @@ Semi-shielded Power Inductor
 2
 avid_footprints
 MODULE_ABX00042
+
+
+0
+160
+160
+avid_footprints
+MODULE_ABX00042_2
 
 
 0
