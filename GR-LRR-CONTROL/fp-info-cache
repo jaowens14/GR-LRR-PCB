@@ -1,4 +1,4 @@
-23561848401705733
+23563567281423956
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95738,6 +95738,13 @@ Connector
 0
 6
 6
+avid_footprints
+ECA_2AHG471
+
+ECA-2AHG471 
+0
+2
+2
 avid_footprints
 EDAC 690-019-298-412
 

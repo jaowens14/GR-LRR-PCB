@@ -116,7 +116,7 @@
         "min_hole_to_hole": 0.24,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -173,26 +173,26 @@
       "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
-          "corner_radius_percentage": 80,
+          "corner_radius_percentage": 100,
           "corner_style": 1,
           "max_amplitude": 1.0,
-          "min_amplitude": 0.2,
+          "min_amplitude": 0.4,
           "single_sided": false,
           "spacing": 1.0
         },
         "diff_pair_skew_defaults": {
-          "corner_radius_percentage": 80,
+          "corner_radius_percentage": 100,
           "corner_style": 1,
           "max_amplitude": 1.0,
-          "min_amplitude": 0.2,
+          "min_amplitude": 0.4,
           "single_sided": false,
           "spacing": 0.6
         },
         "single_track_defaults": {
-          "corner_radius_percentage": 80,
+          "corner_radius_percentage": 100,
           "corner_style": 1,
           "max_amplitude": 1.0,
-          "min_amplitude": 0.2,
+          "min_amplitude": 0.4,
           "single_sided": false,
           "spacing": 0.6
         }

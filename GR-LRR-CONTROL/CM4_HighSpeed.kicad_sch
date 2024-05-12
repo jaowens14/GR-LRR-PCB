@@ -6012,7 +6012,7 @@
 		)
 		(uuid "73b08644-febb-4c1e-9b8f-826cf4cd7348")
 	)
-	(hierarchical_label "USB2_P"
+	(hierarchical_label "USB2_+"
 		(shape bidirectional)
 		(at 109.22 31.75 0)
 		(fields_autoplaced yes)
@@ -6048,7 +6048,7 @@
 		)
 		(uuid "e12ec3e8-0d5b-47b1-abb9-9b31a4bb451e")
 	)
-	(hierarchical_label "USB2_N"
+	(hierarchical_label "USB2_-"
 		(shape bidirectional)
 		(at 109.22 29.21 0)
 		(fields_autoplaced yes)
