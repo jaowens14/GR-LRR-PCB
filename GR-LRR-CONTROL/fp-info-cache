@@ -1,4 +1,4 @@
-23563567281423956
+23568713959594309
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95612,6 +95612,27 @@ CAY16-221J4LF
 0
 8
 8
+avid_footprints
+CFP3_SOD123W_NEX
+
+PMEG6020ER_115 
+0
+2
+2
+avid_footprints
+CFP3_SOD123W_NEX-L
+
+PMEG6020ER_115 
+0
+2
+2
+avid_footprints
+CFP3_SOD123W_NEX-M
+
+PMEG6020ER_115 
+0
+2
+2
 avid_footprints
 CONN24_736-112_WAG
 

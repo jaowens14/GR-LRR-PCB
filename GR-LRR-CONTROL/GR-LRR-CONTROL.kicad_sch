@@ -19601,6 +19601,255 @@
 				)
 			)
 		)
+		(symbol "avid_symbols:PMEG6020ER_115"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CR"
+				(at 5.08 4.445 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "PMEG6020ER_115"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CFP3_SOD123W_NEX"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "PMEG6020ER_115"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "PMEG6020ER,115"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CFP3_SOD123W_NEX CFP3_SOD123W_NEX-M CFP3_SOD123W_NEX-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PMEG6020ER_115_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -1.905) (xy 5.715 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 5.715 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 1.905) (xy 6.985 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 1.905) (xy 6.985 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "avid_symbols:YC164-JR-072KL"
 			(pin_names
 				(offset 1.016)
@@ -22245,6 +22494,12 @@
 		(uuid "44f60648-2f7d-4c22-98cd-c0d6de3d45c3")
 	)
 	(junction
+		(at 151.13 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57fe6aef-88fb-47be-8dab-c28c6d13ad81")
+	)
+	(junction
 		(at 25.4 317.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -22291,6 +22546,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1224357-9add-4492-8196-595e544fb66f")
+	)
+	(junction
+		(at 151.13 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1f780fa-5942-4053-b31d-1eb85057b4c0")
+	)
+	(junction
+		(at 151.13 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9ef76b7-ed6c-4c40-adb5-f14799f4b757")
 	)
 	(junction
 		(at 450.85 436.88)
@@ -22562,6 +22829,26 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 39.37) (xy 151.13 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cda6a07-fdc2-42a2-ae1e-b215e4ebbe1a")
+	)
+	(wire
+		(pts
+			(xy 135.89 39.37) (xy 137.16 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e415cf7-4e17-40b0-bc39-324a2eaefd49")
+	)
+	(wire
+		(pts
 			(xy 590.55 224.79) (xy 622.3 224.79)
 		)
 		(stroke
@@ -22649,6 +22936,16 @@
 			(type default)
 		)
 		(uuid "2d73d863-a694-43cf-a6d1-287bf4530983")
+	)
+	(wire
+		(pts
+			(xy 151.13 39.37) (xy 151.13 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "306368a3-c789-4715-8f7e-f54445292455")
 	)
 	(wire
 		(pts
@@ -23239,6 +23536,16 @@
 			(type default)
 		)
 		(uuid "85f9d7ee-84a5-42ad-9051-6c29fecd788f")
+	)
+	(wire
+		(pts
+			(xy 151.13 41.91) (xy 151.13 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "866f036c-60b2-4a0d-9ed1-ea17ebbcbdce")
 	)
 	(wire
 		(pts
@@ -23899,6 +24206,16 @@
 			(type default)
 		)
 		(uuid "f29cb230-5273-44bf-addc-2d8ca2dd1968")
+	)
+	(wire
+		(pts
+			(xy 151.13 44.45) (xy 151.13 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b2fdd0-d678-486c-929c-a04d337fa848")
 	)
 	(wire
 		(pts
@@ -27002,6 +27319,28 @@
 		(uuid "274e0e8c-16c0-4e80-9380-6734ef1cefae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 150.6243 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "5V"
+		(shape input)
+		(at 135.89 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "278d4a7f-f4af-48d1-a3ec-bbb8500e0bd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 130.6067 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32357,28 +32696,6 @@
 			)
 		)
 	)
-	(global_label "5V"
-		(shape input)
-		(at 151.13 44.45 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "901e6b77-b342-40dc-8b43-4f162176e981")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.8467 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "D4_B+"
 		(shape input)
 		(at 386.08 334.01 0)
@@ -33008,28 +33325,6 @@
 		(uuid "9d1c7f62-d706-4cd3-9ffa-b4402057c7be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 336.4072 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "5V"
-		(shape input)
-		(at 151.13 46.99 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9d2f93b8-f386-449a-878a-51c76bb2d080")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.8467 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37725,28 +38020,6 @@
 			)
 		)
 	)
-	(global_label "5V"
-		(shape input)
-		(at 151.13 39.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f1c1ac87-eab7-41a8-92cb-ebf6372f4887")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.8467 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "D4_+5VOUT"
 		(shape input)
 		(at 342.9 318.77 180)
@@ -38381,28 +38654,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "5V"
-		(shape input)
-		(at 151.13 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fc6c25e7-9719-42e2-a14a-30604920c411")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.8467 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -46130,6 +46381,76 @@
 			(project "GR-LRR-CONTROL"
 				(path "/7e750e3c-c787-4adb-8081-69356fc148e5"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "avid_symbols:PMEG6020ER_115")
+		(at 137.16 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe482052-4a7a-4bf9-8e37-c3313b4242d5")
+		(property "Reference" "CR1"
+			(at 142.24 33.02 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "PMEG6020ER_115"
+			(at 142.24 35.56 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "avid_footprints:CFP3_SOD123W_NEX"
+			(at 137.16 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "PMEG6020ER_115"
+			(at 137.16 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72621a32-a869-490f-b24c-ce35bd2459c1")
+		)
+		(pin "2"
+			(uuid "34ff48d3-0b10-42ca-afb7-3ceff7a7535a")
+		)
+		(instances
+			(project "GR-LRR-CONTROL"
+				(path "/7e750e3c-c787-4adb-8081-69356fc148e5"
+					(reference "CR1")
 					(unit 1)
 				)
 			)

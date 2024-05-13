@@ -5758,6 +5758,255 @@
 				)
 			)
 		)
+		(symbol "avid_symbols:PMEG6020ER_115"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CR"
+				(at 5.08 4.445 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "PMEG6020ER_115"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CFP3_SOD123W_NEX"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "PMEG6020ER_115"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "PMEG6020ER,115"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CFP3_SOD123W_NEX CFP3_SOD123W_NEX-M CFP3_SOD123W_NEX-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PMEG6020ER_115_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -1.905) (xy 5.715 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 5.715 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 1.905) (xy 6.985 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 1.905) (xy 6.985 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_names
@@ -6819,6 +7068,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 115.57) (xy 124.46 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ae2019d-7c13-4040-beeb-6e26e5740bd0")
+	)
+	(wire
+		(pts
 			(xy 140.97 49.53) (xy 152.4 49.53)
 		)
 		(stroke
@@ -6839,7 +7098,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.076 115.57) (xy 114.046 115.57)
+			(xy 100.076 115.57) (xy 114.3 115.57)
 		)
 		(stroke
 			(width 0)
@@ -9080,6 +9339,17 @@
 		)
 		(uuid "777a7d71-7105-4515-9e2c-011e98c36c8b")
 	)
+	(label "+5v"
+		(at 128.27 115.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7a8ec710-33af-4064-a9e5-3b5db216f8dc")
+	)
 	(label "SYNC_IN"
 		(at 87.63 172.72 180)
 		(fields_autoplaced yes)
@@ -9233,17 +9503,6 @@
 			(justify right bottom)
 		)
 		(uuid "988c23bd-6bf9-4ea3-a1d5-3f5ff466a45e")
-	)
-	(label "+5v"
-		(at 106.426 115.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "99fae41c-2f63-4408-bdc3-75a6970f2a0d")
 	)
 	(label "SYNC_OUT"
 		(at 33.02 39.37 180)
@@ -9806,18 +10065,6 @@
 			)
 		)
 	)
-	(hierarchical_label "+5v"
-		(shape input)
-		(at 114.046 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "04f09747-54bd-4ccb-936d-3baa80652154")
-	)
 	(hierarchical_label "GLOBAL_EN"
 		(shape input)
 		(at 116.586 143.51 0)
@@ -9853,6 +10100,18 @@
 			(justify right)
 		)
 		(uuid "ba033dd1-a5e2-4136-b71b-d0a1cef6fc1f")
+	)
+	(hierarchical_label "+5v"
+		(shape input)
+		(at 130.81 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc265109-0895-4bdd-8acf-40cfd206df2a")
 	)
 	(hierarchical_label "SCL0"
 		(shape output)
@@ -12778,6 +13037,76 @@
 			(project "GR-LRR-CONTROL"
 				(path "/7e750e3c-c787-4adb-8081-69356fc148e5/b7f2159b-e50e-4dd7-8990-15596336c7e2"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "avid_symbols:PMEG6020ER_115")
+		(at 124.46 115.57 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d47d584-5fa3-42c3-bb5a-995c1f589781")
+		(property "Reference" "CR2"
+			(at 119.38 109.22 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "PMEG6020ER_115"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "avid_footprints:CFP3_SOD123W_NEX"
+			(at 124.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "PMEG6020ER_115"
+			(at 124.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a672dcf3-8ecf-4179-8bc8-15be54391b3e")
+		)
+		(pin "2"
+			(uuid "62d5f9c5-664d-4be1-923f-e165846f6cf4")
+		)
+		(instances
+			(project "GR-LRR-CONTROL"
+				(path "/7e750e3c-c787-4adb-8081-69356fc148e5/b7f2159b-e50e-4dd7-8990-15596336c7e2"
+					(reference "CR2")
 					(unit 1)
 				)
 			)
