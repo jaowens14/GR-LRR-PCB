@@ -10296,6 +10296,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "74LVC1G07SE-7"
+			(at 183.388 145.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af88c2cc-10f7-4ee5-a749-5e240aff9fcd")
 		)
@@ -10412,6 +10421,15 @@
 			)
 		)
 		(property "Part Description" "Buffer, Non-Inverting 1 Element 1 Bit per Element Open Drain Output SOT-353"
+			(at 27.94 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "74LVC1G07SE-7"
 			(at 27.94 180.34 0)
 			(effects
 				(font
@@ -10607,6 +10625,15 @@
 			)
 		)
 		(property "Part Description" "	100 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold"
+			(at 72.136 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "SC0675"
 			(at 72.136 74.93 0)
 			(effects
 				(font
@@ -11577,7 +11604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field5" "LTST-S270KGKT"
+		(property "Part Number" "LTST-S270KGKT"
 			(at 116.84 25.4 0)
 			(effects
 				(font
@@ -11724,7 +11751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RK73H1ETTP1001F"
+		(property "Part Number" "RK73H1ETTP1001F"
 			(at 116.84 38.1 0)
 			(effects
 				(font
@@ -11906,7 +11933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field5" "	LTST-S270KRKT"
+		(property "Part Number" "	LTST-S270KRKT"
 			(at 191.008 126.492 0)
 			(effects
 				(font
@@ -12053,7 +12080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RK73H1ETTP1001F"
+		(property "Part Number" "RK73H1ETTP1001F"
 			(at 191.008 135.382 0)
 			(effects
 				(font
@@ -13089,6 +13116,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 124.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "PMEG6020ER_115"
 			(at 124.46 115.57 0)
 			(effects
 				(font

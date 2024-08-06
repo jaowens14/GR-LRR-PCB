@@ -6084,7 +6084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field8" "UCON00727"
+		(property "Part Number" "0672984090"
 			(at 207.01 125.73 0)
 			(effects
 				(font
@@ -6218,7 +6218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field5" "609-4050-2-ND"
+		(property "Part Number" "10103594-0001LF"
 			(at 128.27 39.37 0)
 			(effects
 				(font
@@ -6404,6 +6404,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0402FR-072K2L"
+			(at 40.64 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc9c6bae-14b7-43e0-8c86-a5747492f577")
 		)
@@ -6568,7 +6577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 243.84 83.82 0)
 			(effects
 				(font
@@ -6768,7 +6777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 254 83.82 0)
 			(effects
 				(font
@@ -6968,7 +6977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 264.16 83.82 0)
 			(effects
 				(font
@@ -7097,7 +7106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 274.32 83.82 0)
 			(effects
 				(font
@@ -7404,6 +7413,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0402FR-072K2L"
+			(at 33.02 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4ab1f7a-1bec-41b4-bb87-a3e5e286626a")
 		)
@@ -7495,7 +7513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "AP22653W6"
+		(property "Part Number" "AP22653W6"
 			(at 203.2 80.01 0)
 			(effects
 				(font
@@ -7625,7 +7643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "USB2514B-I/M2"
+		(property "Part Number" "USB2514B-I/M2"
 			(at 123.19 111.76 0)
 			(effects
 				(font
@@ -8028,6 +8046,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CRCW040236K0FKED"
+			(at 83.82 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0150b4b5-5e6a-49ff-a69a-5c88d47f5ae0")
 		)
@@ -8148,6 +8175,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CRCW040236K0FKED"
+			(at 76.2 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1265343b-09bd-4f46-b365-fe782bbe6120")
 		)
@@ -8261,6 +8297,15 @@
 		)
 		(property "Part Description" "Resistor 36K M1005 1% 63mW"
 			(at 68.58 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "CRCW040236K0FKED"
+			(at 68.58 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8645,7 +8690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "MCR01MZPF1502"
+		(property "Part Number" "CRCW040215K0FKED"
 			(at 222.25 80.01 0)
 			(effects
 				(font
@@ -9128,7 +9173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "FSUSB42MUX"
+		(property "Part Number" "FSUSB42MUX"
 			(at 52.07 72.39 0)
 			(effects
 				(font
@@ -9512,6 +9557,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0402FR-0712KL "
+			(at 86.36 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17bfb584-253b-4a6a-9dcf-f2df6bdb1712")
 		)
@@ -9632,6 +9686,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CRCW040236K0FKED"
+			(at 91.44 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "713f5b05-e6e1-4809-b8da-e42dac1f7769")
 		)
@@ -9725,7 +9788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RM EMK105 B7104KV-F"
+		(property "Part Number" "RM EMK105 B7104KV-F"
 			(at 116.84 168.91 0)
 			(effects
 				(font
@@ -9854,7 +9917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RM EMK105 B7104KV-F"
+		(property "Part Number" "RM EMK105 B7104KV-F"
 			(at 128.27 168.91 0)
 			(effects
 				(font
@@ -9983,7 +10046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RM EMK105 B7104KV-F"
+		(property "Part Number" "RM EMK105 B7104KV-F"
 			(at 138.43 168.91 0)
 			(effects
 				(font
@@ -10112,7 +10175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RM EMK105 B7104KV-F"
+		(property "Part Number" "RM EMK105 B7104KV-F"
 			(at 93.218 168.91 0)
 			(effects
 				(font
@@ -10312,7 +10375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 74.93 168.91 0)
 			(effects
 				(font
@@ -10441,7 +10504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 84.074 168.91 0)
 			(effects
 				(font
@@ -10577,7 +10640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "X24M000000S128"
+		(property "Part Number" "QCS24.0000F18B23M"
 			(at 48.26 125.73 0)
 			(effects
 				(font
@@ -10688,7 +10751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GJM1555C1H270JB01D"
+		(property "Part Number" "GJM1555C1H270JB01D"
 			(at 36.83 130.81 0)
 			(effects
 				(font
@@ -10817,7 +10880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GJM1555C1H270JB01D"
+		(property "Part Number" "GJM1555C1H270JB01D"
 			(at 57.15 130.81 0)
 			(effects
 				(font
@@ -11159,7 +11222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RM EMK105 B7104KV-F"
+		(property "Part Number" "RM EMK105 B7104KV-F"
 			(at 103.378 168.91 0)
 			(effects
 				(font
@@ -11288,7 +11351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "RM EMK105 B7104KV-F"
+		(property "Part Number" "RM EMK105 B7104KV-F"
 			(at 148.844 168.91 0)
 			(effects
 				(font
@@ -11417,7 +11480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "GRM21BR71A106KA73L"
+		(property "Part Number" "GRM21BR71A106KA73L"
 			(at 172.72 82.55 0)
 			(effects
 				(font
@@ -11544,7 +11607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field6" "CDDFN10-3324P-13"
+		(property "Part Number" "CDDFN10-3324P"
 			(at 201.93 43.18 0)
 			(effects
 				(font
@@ -11688,7 +11751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field5" "667-EEF-CX0J101R"
+		(property "Part Number" "EEF-CX0J101R"
 			(at 230.378 83.82 0)
 			(effects
 				(font
@@ -11823,7 +11886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field8" "UCON00727"
+		(property "Part Number" "0672984090"
 			(at 255.27 124.46 0)
 			(effects
 				(font

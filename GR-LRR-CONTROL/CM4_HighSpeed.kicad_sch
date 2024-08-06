@@ -6309,6 +6309,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "SC0675"
+			(at -67.31 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bf7fd5e-ddc6-4d8f-bb71-7ee53626e253")
 		)

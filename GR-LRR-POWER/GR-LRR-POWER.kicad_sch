@@ -4891,16 +4891,6 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 299.72) (xy 109.22 307.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "159230b5-03fa-43f9-a188-6402ca2a2ad8")
-	)
-	(wire
-		(pts
 			(xy 91.44 307.34) (xy 91.44 304.8)
 		)
 		(stroke
@@ -4958,6 +4948,16 @@
 			(type default)
 		)
 		(uuid "23769825-7df6-4f4f-91fb-34584c305077")
+	)
+	(wire
+		(pts
+			(xy 105.41 307.34) (xy 91.44 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23af849c-ee8b-4aed-ad58-91c18f645b29")
 	)
 	(wire
 		(pts
@@ -5621,16 +5621,6 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 307.34) (xy 91.44 307.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "854a587a-1acc-43f8-b99f-0287b43b721f")
-	)
-	(wire
-		(pts
 			(xy 176.53 172.72) (xy 195.58 172.72)
 		)
 		(stroke
@@ -5711,6 +5701,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 297.18) (xy 105.41 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a22bfa06-0af2-4fed-b66a-ec753d70d367")
+	)
+	(wire
+		(pts
 			(xy 41.91 162.56) (xy 49.53 162.56)
 		)
 		(stroke
@@ -5758,6 +5758,16 @@
 			(type default)
 		)
 		(uuid "a72c5ddd-ed08-4379-86b7-7af46414082c")
+	)
+	(wire
+		(pts
+			(xy 105.41 297.18) (xy 105.41 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7b89f27-bb53-4dec-b36d-7539f33c2b08")
 	)
 	(wire
 		(pts
@@ -6435,6 +6445,16 @@
 			(justify left bottom)
 		)
 		(uuid "7a77f55a-7b48-4be5-8783-7f110477e8fb")
+	)
+	(text "-VIN was not connected"
+		(exclude_from_sim no)
+		(at 100.584 285.496 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7dbb666b-24fe-468e-a8dc-37c649a6fcc9")
 	)
 	(text "IF SHDN IS PULLED LOW, THE DEVICE TURNS OFF\n"
 		(exclude_from_sim no)
@@ -7557,6 +7577,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "SIS434DN-T1-GE3"
+			(at 113.03 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6bffa2b4-8783-4127-a1c3-ac712530fe9f")
 		)
@@ -7647,7 +7676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "T521X336M050ATE075"
+		(property "Part Number" "T521X336M050ATE050"
 			(at 64.77 297.18 90)
 			(effects
 				(font
@@ -8287,6 +8316,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "SIS434DN-T1-GE3"
+			(at 116.84 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0eac551-6b03-4b6c-842b-6ec4fdb90e35")
 		)
@@ -8491,6 +8529,15 @@
 		)
 		(property "Description" ""
 			(at 91.44 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "UWT1H221MNL1GS"
+			(at 91.44 297.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8760,6 +8807,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "UWT1H221MNL1GS"
+			(at 91.44 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" ""
+			(at 91.44 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e1449a6-2189-4128-b1da-261d9710a44a")
 		)
@@ -8956,6 +9021,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "UWS-24_2-Q12P-C"
+			(at 107.95 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -9745,7 +9819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "T521X336M050ATE075"
+		(property "Part Number" "T521X336M050ATE050"
 			(at 63.5 165.1 90)
 			(effects
 				(font
@@ -9894,7 +9968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "T521X336M050ATE075"
+		(property "Part Number" "T521X336M050ATE050"
 			(at 64.77 234.95 90)
 			(effects
 				(font
@@ -9964,6 +10038,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 115.57 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "LTC4365CTS8-TRMPBF"
 			(at 115.57 96.52 0)
 			(effects
 				(font
@@ -10055,6 +10138,15 @@
 		)
 		(property "Description" ""
 			(at 176.53 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "691137710002"
+			(at 176.53 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10437,6 +10529,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "696108003002"
+			(at 39.37 162.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91a6fe62-8595-4bc8-94c7-8b0a04b1b070")
 		)
@@ -10811,6 +10912,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "50ZLH100MEFC8X11.5"
+			(at 147.32 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99b30b59-866f-468e-96f8-fb4bce94d126")
 		)
@@ -10928,6 +11038,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "UWS-510-Q12P-C"
+			(at 109.22 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -11380,6 +11499,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "UWT1H221MNL1GS"
+			(at 90.17 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f61d68e9-4ce6-4329-9626-5611a71109d2")
 		)
@@ -11497,6 +11625,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "DT13-08PB"
+			(at 31.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

@@ -1,4 +1,4 @@
-23568713959594309
+23611635094617162
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95347,12 +95347,26 @@ avid_footprints
 2
 2
 avid_footprints
+9V_spring_connectors
+
+
+0
+4
+2
+avid_footprints
 50ZLH100MEFC8X11_5
 
 50ZLH100MEFC8X11.5 
 0
 2
 2
+avid_footprints
+590
+590-1
+Undefined or Miscellaneous
+0
+3
+3
 avid_footprints
 1286ASH1R0MP2
 0806 (2016) T=1.2mm
@@ -95388,6 +95402,13 @@ avid_footprints
 0
 20
 20
+avid_footprints
+5209
+
+
+0
+2
+2
 avid_footprints
 43045-02YY_121314
 43045-02YY_121314
@@ -95459,6 +95480,13 @@ avid_footprints
 24
 24
 avid_footprints
+5013310607
+
+5013310607 
+0
+8
+8
+avid_footprints
 901361303
 
 901361303 
@@ -95528,6 +95556,13 @@ AMPHENOL_10018783-10101TLF
 0
 64
 64
+avid_footprints
+ATSAMD21E18A-MU
+HVQFN, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT617-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVQFN NoLead
+0
+42
+32
 avid_footprints
 ATTINY85V-10MU
 
@@ -95690,6 +95725,27 @@ CON_430452400_MOL
 24
 24
 avid_footprints
+CR_SMB_320-345BE_DIO
+
+B330B-13-F 
+0
+2
+2
+avid_footprints
+CR_SMB_320-345BE_DIO-L
+
+B330B-13-F 
+0
+2
+2
+avid_footprints
+CR_SMB_320-345BE_DIO-M
+
+B330B-13-F 
+0
+2
+2
+avid_footprints
 DF40HC3580DS04V58
 DF40HC(3.5)-80DS-0.4V(58)-1
 Connector
@@ -95724,6 +95780,27 @@ NTD20N03L27T4G
 0
 3
 3
+avid_footprints
+DS04-254-2-04BK-SMT_CUD
+
+DS04-254-2-04BK-SMT 
+0
+8
+8
+avid_footprints
+DS04-254-2-04BK-SMT_CUD-L
+
+DS04-254-2-04BK-SMT 
+0
+8
+8
+avid_footprints
+DS04-254-2-04BK-SMT_CUD-M
+
+DS04-254-2-04BK-SMT 
+0
+8
+8
 avid_footprints
 DT13-6P
 DT13-6P
@@ -95774,6 +95851,13 @@ EDAC 690-019-298-412
 23
 23
 avid_footprints
+EG1249
+EG1249-3
+Switch
+0
+5
+5
+avid_footprints
 FX30B4P381DSA25
 FX30B-4P-3.81DSA25-1
 Connector
@@ -95801,6 +95885,13 @@ GCT_USB4155-03-C_REVA
 0
 26
 26
+avid_footprints
+GY7274OLED
+
+
+0
+18
+17
 avid_footprints
 Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
 Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -95893,6 +95984,13 @@ SIS434DN-T1-GE3
 8
 8
 avid_footprints
+MSS1038-382NLC
+SMD Inductor, 3.3x3.3x1.4mm, Coilcraft LPS3314, https://www.coilcraft.com/pdfs/lps3314.pdf
+L Coilcraft LPS3314
+0
+2
+2
+avid_footprints
 PCAP_6.3x5.4-ELECT_NCA
 
 UWZ1H100MCL1GB 
@@ -95949,6 +96047,13 @@ Power Supply
 10
 10
 avid_footprints
+PTS647SK38SMTR2LFS_CNK
+
+PTS647SK38SMTR2LFS 
+0
+4
+2
+avid_footprints
 PW0016A_L
 
 INA260AIPWR 
@@ -95976,6 +96081,27 @@ Power Supply
 0
 13
 13
+avid_footprints
+RD_8_1_ADI
+
+ADP2302ARDZ-R7 
+0
+9
+9
+avid_footprints
+RD_8_1_ADI-L
+
+ADP2302ARDZ-R7 
+0
+9
+9
+avid_footprints
+RD_8_1_ADI-M
+
+ADP2302ARDZ-R7 
+0
+9
+9
 avid_footprints
 RESCAXE64P320X160X70-10N
 
@@ -96075,6 +96201,27 @@ Power Supply
 9
 9
 avid_footprints
+SOT-23-3_1P4X3P040_ONS
+
+MMBT2222LT1G 
+0
+3
+3
+avid_footprints
+SOT-23-3_1P4X3P040_ONS-L
+
+MMBT2222LT1G 
+0
+3
+3
+avid_footprints
+SOT-23-3_1P4X3P040_ONS-M
+
+MMBT2222LT1G 
+0
+3
+3
+avid_footprints
 SOT-23F_TOS
 
 SSM3J355R_LF 
@@ -96130,6 +96277,13 @@ PCA9685PW
 0
 28
 28
+avid_footprints
+STM32MP157AAA3
+
+STM32MP157AAA3 
+0
+448
+448
 avid_footprints
 SW6_SD03H0SB_CNK
 
@@ -96228,6 +96382,27 @@ Power Supply
 0
 6
 6
+avid_footprints
+UFM_TOS
+
+SSM3J132TU_LF 
+0
+3
+3
+avid_footprints
+UFM_TOS-L
+
+SSM3J132TU_LF 
+0
+3
+3
+avid_footprints
+UFM_TOS-M
+
+SSM3J132TU_LF 
+0
+3
+3
 avid_footprints
 USB_Micro-B_EDAC_UCON00686
 Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
